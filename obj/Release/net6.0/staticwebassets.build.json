@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "OVusUmLUa/pBtMsU315Es/vDsMrzUxj4IXDaiudSVSs=",
-  "Source": "CryptoPriceTrader",
-  "BasePath": "_content/CryptoPriceTrader",
+  "Hash": "bKhHufDQs1jBGoqRhbqKfbbnEbfxqyyeEHGXzvbOZM4=",
+  "Source": "PortfolioApi",
+  "BasePath": "_content/PortfolioApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

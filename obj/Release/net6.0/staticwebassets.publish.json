@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "wqF6aKvMVP0bePA6g4bjren47jFXj2vIrVGdiMXa9Rs=",
-  "Source": "CryptoPriceTrader",
-  "BasePath": "_content/CryptoPriceTrader",
+  "Hash": "HtJikS5pzLWQts2hfq29+ld+0d1tVrpPV4HPEsghQng=",
+  "Source": "PortfolioApi",
+  "BasePath": "_content/PortfolioApi",
   "Mode": "Default",
   "ManifestType": "Publish",
   "ReferencedProjectsConfiguration": [],

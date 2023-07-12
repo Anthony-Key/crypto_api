@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jW0udee0aoRnAeNTyV/e+ieXGfMm+8Qc6etYHuSy4NYLKOBqL1N4gJbAz3Ed6qxVIez01NVfWkjt/kkiBJcxcA==",
+  "dgSpecHash": "xYQN6s1vMG0GjqrTM6aSCHyBSkFqPCOpXQroNi/JaN7Rl/OO+pbuSLSdxe6vJq2KgjPQyD0jUZ228AD+GCvs+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\antho\\Desktop\\PriceChecker\\CryptoPriceTrader\\CryptoPriceTrader.csproj",
+  "projectFilePath": "C:\\Users\\antho\\Desktop\\CryptoAPi\\crypto_api\\PortfolioApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\antho\\.nuget\\packages\\azure.core\\1.0.2\\azure.core.1.0.2.nupkg.sha512",
     "C:\\Users\\antho\\.nuget\\packages\\azure.identity\\1.0.0\\azure.identity.1.0.0.nupkg.sha512",
@@ -10,6 +10,7 @@
     "C:\\Users\\antho\\.nuget\\packages\\azure.storage.common\\12.2.0\\azure.storage.common.12.2.0.nupkg.sha512",
     "C:\\Users\\antho\\.nuget\\packages\\azure.storage.files.shares\\12.1.0\\azure.storage.files.shares.12.1.0.nupkg.sha512",
     "C:\\Users\\antho\\.nuget\\packages\\azure.storage.queues\\12.2.0\\azure.storage.queues.12.2.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
     "C:\\Users\\antho\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
     "C:\\Users\\antho\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\antho\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
@@ -48,6 +49,7 @@
     "C:\\Users\\antho\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
     "C:\\Users\\antho\\.nuget\\packages\\system.io.filesystem\\4.3.0\\system.io.filesystem.4.3.0.nupkg.sha512",
     "C:\\Users\\antho\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0\\system.io.filesystem.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512",
     "C:\\Users\\antho\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
     "C:\\Users\\antho\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\antho\\.nuget\\packages\\system.net.nameresolution\\4.3.0\\system.net.nameresolution.4.3.0.nupkg.sha512",

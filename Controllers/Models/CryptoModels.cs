@@ -22,7 +22,7 @@
         public double Volume { get; set; }
     }
 
-    public class Root
+    public class CryptoRoot
     {
         public string Interval { get; set; }
         public List<Instrument> Candles { get; set; }
